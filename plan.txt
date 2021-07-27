@@ -1,0 +1,7 @@
+[.]Creat npm project
+[.] create index, css, js file
+[.]Install dependency , express, nodemon
+[.] Creat a express (server.js)
+[.] Do fronthand part
+[.] Install socket.io, setup socket.io server.js and cleint cleint.js
+[.] cleint send message logic in client.js
